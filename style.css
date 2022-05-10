@@ -4,11 +4,11 @@ body {
     background: #f2f6e9;
 }
 .navbar {
-    background:#12135a;
+    background: #23395B;
 }
 .nav-link,
 .navbar-brand {
-    color: #fff;
+    color: #CBF7ED;
     cursor: pointer;
     font-size: 35px;
 }
@@ -49,5 +49,6 @@ body {
     min-width: 100%;
     left: 0;
     top: 0;
-    background: #5656ba;
+    background: #406E8E;
 }
+
